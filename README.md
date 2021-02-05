@@ -1,5 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm Pablo Polito</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
+<h3 align="center">
+information systems student in training at Faculdade Iteana de Bauru, passionate about technology and innovation</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🔭 I’m currently working on [Totvs](https://github.com/totvs)
