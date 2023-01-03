@@ -683,6 +683,12 @@ iframe {
   color: #ffffff;
   font-size: 12px;
 }
+.vcard-profile-description-ft-item a {
+  margin-bottom: 0;
+  color: #ffffff;
+  font-size: 12px;
+  border-bottom: 1px solid #ffffff
+}
 /* ==========================================================
 ! 09. Content
 ========================================================== */
