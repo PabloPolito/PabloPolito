@@ -1,23 +1,7 @@
 <h1 align="center">Hi dear 👋, I'm Pablo Polito</h1>
 <h3 align="center">
-SI student in training at Faculdade Iteana de Bauru, passionate about technology and innovation</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
-
-- 🔭 I’m currently working on [Totvs](https://github.com/totvs)
-
-- 👨‍💻 All of my projects are available at [github.com/PabloPolito](https://github.com/PabloPolito)
-
-- 💬 Ask me about **AdvPL, Computational and Programming Logic**
-
-- 📫 How to reach me:
-    - Professional -> **pablo.polito@totvs.com.br**
-    - Particular -> **@pabloppolito (Instagram)**
-
-- ⚡ Fun fact **Oneye 😜**
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pablopolito&show_icons=true" alt="pablopolito"/> 
-</p>
+"You can look at a mistake as a blunder to be forgotten, or as a result that points you in a new direction" Steve Jobs</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablopolito" alt="pablopolito" /> </p>
 
 <p align="center">
 <a href="https://codepen.io/pablopolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pablopolito" height="20" width="20" /></a>
