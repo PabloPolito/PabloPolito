@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm Pablo Polito</h1>
 <h3 align="center">
-"Hey, want to know about my biography? Well, I wouldn't say that I'm creative because my intelligence is having fun, I say that I'm creative, for holding you for a few seconds in my presentation :) </br><span>"Imagination is more important than knowledge"</span></h3> 
+"Hey, want to know about my biography? Well, I wouldn't say that I'm creative because my intelligence is having fun, I say that I'm creative, for holding you for a few seconds in my presentation :)</h3> </br><span text="white" align="center">"Imagination is more important than knowledge"</span>
 
 
 <p align="center">
