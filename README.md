@@ -10,7 +10,3 @@
 <a href="https://codesandbox.io/u/PabloPolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pablopolito" height="20" width="20" /></a>
 <a href="https://instagram.com/pabloppolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pablopolito" height="20" width="20" style="color: white"/></a>
 </p>
-
-<!--
-**pablopolito/pablopolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
