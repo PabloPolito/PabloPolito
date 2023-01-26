@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/pablopolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablopolito" height="20" width="20" /></a>
 <a href="https://pt.stackoverflow.com/users/130849/pablo-polito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pablopolito" height="20" width="20" /></a>
 <a href="https://codesandbox.io/u/PabloPolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pablopolito" height="20" width="20" /></a>
-<a href="https://instagram.com/pabloppolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pablopolito" height="20" width="20" color="white"/></a>
+<a href="https://instagram.com/pabloppolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pablopolito" height="20" width="20" style="color: white"/></a>
 </p>
 
 <!--
