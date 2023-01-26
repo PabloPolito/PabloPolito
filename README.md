@@ -5,9 +5,23 @@
 
 <!--Social Medias-->
 <p align="center">
-<a href="https://codepen.io/pablopolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pablopolito" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/pablopolito" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/792/PNG/512/INSTAGRAM_icon-icons.com_65535.png" alt="pablopolito" height="20" width="20" /></a>
-<a href="https://pt.stackoverflow.com/users/130849/pablo-polito" target="blank"><img align="center" src="https://icons8.com/icon/85154/instagram" alt="pablopolito" height="20" width="20" /></a>
-<a href="https://codesandbox.io/u/PabloPolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pablopolito" height="20" width="20" /></a>
-<a href="https://instagram.com/pabloppolito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pablopolito" height="20" width="20" text="white"/></a>
+<a href="https://codepen.io/pablopolito" target="blank">
+  <img align="center" src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" alt="codepen.io" height="20" width="20" />
+</a>
+  
+<a href="https://pt.stackoverflow.com/users/130849/pablo-polito" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" height="20" width="20" />
+</a>
+  
+<a href="https://linkedin.com/in/pablopolito" target="blank">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/792/PNG/512/LINKEDIN_icon-icons.com_65538.png" alt="linkedin" height="20" width="20" />
+</a>
+   
+<a href="https://codesandbox.io/u/PabloPolito" target="blank">
+  <img align="center" src="https://ci.codesandbox.io/static/favicon.ico" alt="cidesandbox" height="20" width="20" />
+</a>
+  
+<a href="https://instagram.com/pabloppolito" target="blank">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/792/PNG/512/INSTAGRAM_icon-icons.com_65535.png" alt="instagram" height="20" width="20" text="white"/>
+</a>
 </p>
